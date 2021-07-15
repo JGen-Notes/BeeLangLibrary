@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: eu.jgen.bee.xlib
+Bundle-ManifestVersion: 2
+Bundle-Name: eu.jgen.bee.xlib
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: eu.jgen.bee.xlib; singleton:=true
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11

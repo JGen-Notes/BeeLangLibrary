@@ -1,0 +1,7 @@
+package eu.jgen.bee.xlib;
+/*
+ * This is an widget 
+ */
+class XObject {
+	
+}

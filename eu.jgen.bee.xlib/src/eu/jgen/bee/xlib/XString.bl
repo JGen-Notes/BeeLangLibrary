@@ -1,0 +1,11 @@
+package eu.jgen.bee.xlib ;
+import eu.jgen.bee.xlib.*;
+
+/*
+* This is a class representing string of characters.
+* */
+
+class XString : XObject {
+					
+				
+}

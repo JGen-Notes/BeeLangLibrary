@@ -1,0 +1,9 @@
+package eu.jgen.bee.xlib ;
+import eu.jgen.bee.xlib.*;
+
+/*
+* This is an example model
+*/
+class XWidget : XObject {
+					
+}
