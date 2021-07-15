@@ -1,8 +1,9 @@
 package eu.jgen.bee.xlib;
 import eu.jgen.bee.xlib.*;
+
 /*
  * This is an widget 
  */
-class XObject {
+class XDate : XObject {
 	
 }
